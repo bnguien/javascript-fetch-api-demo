@@ -6,6 +6,13 @@ This is a basic CRUD (Create, Read, Update, Delete) web app using HTML, JavaScri
 - Check npm : Open your terminal and run the command `npm -v` to check the installed version.
 ---
 Make sure you have `json-server` installed:
+
+- Open your terminal and run the command:
+
 ```bash
 npm i json-server
+```
+Then run the command :
+```bash
 npm start
+```
